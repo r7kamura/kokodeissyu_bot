@@ -7,7 +7,7 @@
     },
     "KOKODEIKKU_PREFIX": {
       "description": "Pass prefix message",
-      "value": "ここで短歌"
+      "value": "ここで一首:"
     },
     "KOKODEIKKU_RULE": {
       "description": "Pass song rule",
@@ -41,6 +41,6 @@
       "description": "Twitter consumer secret"
     }
   },
-  "keywords": ["bot", "twitter", "ここで一句"],
-  "name": "kokodetanka-bot"
+  "keywords": ["bot", "twitter", "ここで一首"],
+  "name": "kokodeissyu-bot"
 }
